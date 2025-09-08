@@ -1,0 +1,9 @@
+div{
+    background-color: rgba(25, 120, 66, 0.258);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.text{
+    text-align: justify;
+}
